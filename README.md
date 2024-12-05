@@ -6,5 +6,6 @@
   <br>
  <p> - HTML</p>
  <p> - CSS</p>
+  <img src="https://github.com/Paolavarela/Easy-Shopping/blob/master/Assets/Desktop.png?raw=true">
  
 
